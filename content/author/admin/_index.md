@@ -10,7 +10,7 @@ role = "Agricultural and Natural Resources Economist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "CIRAD", url = "www.cirad.fr" }, { name = "University of Pretoria", url = "up.ac.za" } ]
+organizations = [ { name = "CIRAD", url = "www.cirad.fr" },  { name = "UMR G-EAU", url = "www.cirad.fr" } { name = "University of Pretoria", url = "up.ac.za" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include water economics, and economics of technical change"
@@ -70,15 +70,11 @@ interests = [
 
 Damien Jourdain is working with the UMR “Water Management, Uses, Actors” (G-EAU). 
 
-Currently posted at the Center for the Study of Governance Innovation, University of Pretoria, he is mainly interested in economic
-instruments leading to a better governance of natural resources, especially water. He is located and works closely with the Centre for
-Environmental Economics and Policy in Africa (CEEPA), Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP).
+He is mainly interested in economic instruments leading to a better governance of natural resources, especially water. He is located and works closely with the Centre for Environmental Economics and Policy in Africa (CEEPA), Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP).
 
 His research program focuses on:
 
 1. The economic value of hydro-ecosystems,
-2. The impacts of water allocation policies (efficiency, equity) and
-the potential implications for the food and energy sectors, and
-3. The economic and institutional instruments conducive to a reduction in water
-consumption by the different sectors.
+2. The impacts of water allocation policies (efficiency, equity) and the potential implications for the food and energy sectors, and
+3. The economic and institutional instruments conducive to a reduction in water consumption by the different sectors.
 
