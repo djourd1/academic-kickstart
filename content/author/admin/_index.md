@@ -29,7 +29,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Agricultural Economics"
+  course = "PhD Agricultural, Food and Rural Development Economics"
   institution = "Montpellier I University"
   year = 2004
 
@@ -68,17 +68,11 @@ interests = [
 
 +++
 
-Damien Jourdain is a CIRAD Agricultural and Natural Resources Economist,
-working with the UMR “Water Management, Uses, Actors” (G-EAU). He
-holds a PhD in Agricultural, Food and Rural Development Economics from
-the University of Montpellier.
+Damien Jourdain is working with the UMR “Water Management, Uses, Actors” (G-EAU). 
 
-At the Center for the Study of Governance
-Innovation, University of Pretoria, he is mainly interested in economic
-instruments leading to a better governance of natural resources,
-especially water. He is located and works closely with the Centre for
-Environmental Economics and Policy in Africa (CEEPA), Faculty of Natural
-and Agricultural Sciences of the University of Pretoria (UP).
+Currently posted at the Center for the Study of Governance Innovation, University of Pretoria, he is mainly interested in economic
+instruments leading to a better governance of natural resources, especially water. He is located and works closely with the Centre for
+Environmental Economics and Policy in Africa (CEEPA), Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP).
 
 His research program focuses on:
 
@@ -88,9 +82,3 @@ the potential implications for the food and energy sectors, and
 3. The economic and institutional instruments conducive to a reduction in water
 consumption by the different sectors.
 
-Previously, he was seconded to the Asian Institute of Technology (AIT)
-in Thailand (2010-17), the Social Sciences Division of the International
-Rice Research Institute (IRRI) in Vietnam (2006-10), the International
-Center for the Improvement of (CIMMYT) in Mexico (1997-2002), and the
-United Nations Economic and Social Commission for Asia and the Pacific
-(ESCAP) in Thailand (1991-1995).
