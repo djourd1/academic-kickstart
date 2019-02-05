@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Agricultural and Natural Resource Economist"
   company = "CEEPA - University of Pretoria"
-  company_url = ""
+  company_url = "up.ac.za"
   location = "Pretoria"
   date_start = "2017-09-01"
   date_end = ""
