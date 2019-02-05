@@ -67,14 +67,10 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-
-Damien Jourdain is working with the UMR “Water Management, Uses, Actors” (G-EAU). 
-
-He is mainly interested in economic instruments leading to a better governance of natural resources, especially water. He is located and works closely with the Centre for Environmental Economics and Policy in Africa (CEEPA), Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP).
+Damien Jourdain is working with the UMR “Water Management, Uses, Actors” (G-EAU). He is mainly interested in economic instruments leading to a better governance of natural resources, especially water. He is located and works closely with the Centre for Environmental Economics and Policy in Africa (CEEPA), Faculty of Natural and Agricultural Sciences of the University of Pretoria (UP).
 
 His research program focuses on:
 
 1. The economic value of hydro-ecosystems,
 2. The impacts of water allocation policies (efficiency, equity) and the potential implications for the food and energy sectors, and
 3. The economic and institutional instruments conducive to a reduction in water consumption by the different sectors.
-
