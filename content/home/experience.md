@@ -20,11 +20,11 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Agricultural and Natural Resource Economist"
-  company = "CEEPA - University of Pretoria"
+  company = "CEEPA University of Pretoria"
   company_url = "up.ac.za"
   location = "Pretoria"
   date_start = "2017-09-01"
   date_end = ""
-  description = """Teaching Policies"""
+  description = "Teaching Policies"
 
 +++
