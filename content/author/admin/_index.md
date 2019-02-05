@@ -21,7 +21,10 @@ email = "damien.jourdain@cirad.fr"
 # List (academic) interests or hobbies
 interests = [
   "Choice Experiments",
-  "Farm Modeling"
+  "Farm Modeling",
+  "Ecosystem Services",
+  "Payment for Ecosystem Services",
+  "Technological Change"
 ]
 
 # List qualifications (such as academic degrees)
