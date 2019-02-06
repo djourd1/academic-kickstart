@@ -24,7 +24,7 @@ interests = [
   "Farm Modeling",
   "Ecosystem Services",
   "Payment for Ecosystem Services",
-  "Technological Change"
+  "Modeling Technological Change"
 ]
 
 # List qualifications (such as academic degrees)
