@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Experience"
 subtitle = ""
@@ -25,6 +25,15 @@ date_format = "January 2006"
   location = "Pretoria"
   date_start = "2017-09-01"
   date_end = ""
+  description = "Teaching Policies"
+
+[[experience]]
+  title = "Agricultural and Natural Resource Economist"
+  company = "Asian Institute of Technology"
+  company_url = "www.ait.asia"
+  location = "Bangkok, Thailand"
+  date_start = "2006-06-01"
+  date_end = "2010-06-30"
   description = "Teaching Policies"
 
 +++
